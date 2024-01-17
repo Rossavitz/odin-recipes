@@ -1,0 +1,14 @@
+.boldunderlined {
+    font-weight:bold;
+    text-decoration: underline;
+    color: brown
+}
+
+body {
+    font-family: Garamond, 'Lucida Sans', sans-serif;
+}
+h2 {
+    color: brown;
+    text-align:center;
+    text-decoration:underline;
+}

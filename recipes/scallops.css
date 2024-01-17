@@ -1,0 +1,43 @@
+.scallopsone {
+    float: left;
+    margin-right: auto;
+}
+
+.text-right {
+    margin-left: 15px;
+    margin-top: 2px;
+    font-size: 30px;
+    line-height: 1.5;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.scallopstwo {
+    float: right;
+    margin-right: 2px;
+}
+
+.text-left {
+    margin-right: 15px;
+    margin-top: 2px;
+    line-height: 1.5;
+    font-weight: bold;
+    padding-top: 25px;
+}
+
+.boldunderlined {
+    color: rgb(178, 129, 25);
+}
+
+.description {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 35px;
+}
+
+body {
+    font-family: Papyrus, Lucida, serif;
+    font-weight: 800;
+}
